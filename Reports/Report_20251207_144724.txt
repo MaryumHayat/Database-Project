@@ -1,0 +1,24 @@
+CAT RESORT - DAILY REPORT
+Generated: 2025-12-07 14:47
+========================================
+
+A. CURRENT STATUS REPORT
+   Occupancy Summary:
+   - Total Rooms: 10
+   - Occupied: 1
+   - Available: 9
+   - Maintenance: 0
+   - Occupancy Rate: 10.0%
+
+   Today's Activity:
+   - Check-ins today: 1
+   - Check-outs today: 0
+   - New appointments: 3
+   - Pending tasks: 1
+
+B. CAT STATISTICS REPORT
+   Current Boarding Cats: 1
+   Average Stay Duration: 1.0 days
+
+   Breed Distribution:
+   - Persian Cat: 1
